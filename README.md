@@ -1,4 +1,4 @@
-# swiped <img src="sticker_swiped.pdf" align="right" width="120" />
+# swiped <img src="sticker_swiped.png" align="right" width="120" />
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)
 
