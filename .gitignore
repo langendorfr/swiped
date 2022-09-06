@@ -1,0 +1,12 @@
+## Images
+*.png
+*.pdf
+
+## Need the keyboard image
+!iOS-Keyboard.png
+
+## Need the sticker image
+!sticker_swiped
+
+## R history
+.Rhistory
