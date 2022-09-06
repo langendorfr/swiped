@@ -7,6 +7,7 @@ suppressMessages(library(dplyr))
 suppressMessages(library(ggplot2))
 suppressMessages(library(ggforce))
 suppressMessages(library(grid))
+suppressMessages(library(LearnGeom))
 
 ## Command line input arguments
 args <- commandArgs(trailingOnly = TRUE)
