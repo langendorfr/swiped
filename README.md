@@ -10,7 +10,7 @@ To run call the R script *swiped.R* with the name of a text file as an input arg
 Rscript swiped.R rel.txt
 ```
 
-You can also include the *named* second input argument to have the English version of each word appear above its corresponding swiped representation.
+You can also include the second input argument "named" to have the English version of each word appear above its corresponding swiped representation.
 
 ```console
 Rscript swiped.R rel.txt named
