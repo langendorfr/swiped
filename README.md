@@ -1,6 +1,6 @@
-# swiped <img src="sticker_swiped.png" align="right" width="120" />
+# symbolic english <img src="sticker_swiped.png" align="right" width="120" />
 
-symbolic english [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)
+[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)
 
 ![ExampleOutput](Swiped_input_Genesis_20210705151131.png)
 
