@@ -4,6 +4,8 @@
 
 symbolic english
 
+![ExampleOutput](Swiped_input_Genesis_20210705151131.png)
+
 To run call the R script *swiped.R* with the name of a text file as an input argument.
 
 ```console
@@ -15,5 +17,3 @@ You can also include the second input argument "named" to have the English versi
 ```console
 Rscript swiped.R rel.txt named
 ```
-
-![ExampleOutput](Swiped_input_Genesis_20210705151131.png)
