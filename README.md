@@ -7,11 +7,11 @@
 To run call the R script *swiped.R* with the name of a text file as an input argument.
 
 ```console
-Rscript swiped.R rel.txt
+Rscript swiped.R input_Genesis.txt
 ```
 
 You can also include the second input argument "named" to have the English version of each word appear above its corresponding swiped representation.
 
 ```console
-Rscript swiped.R rel.txt named
+Rscript swiped.R input_Genesis.txt named
 ```
