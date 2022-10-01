@@ -16,4 +16,4 @@ You can also include the second input argument "named" to have the English versi
 Rscript swiped.R rel.txt named
 ```
 
-<img src="Swiped_input_Genesis_20210705151131.png" align="center" width="500" />
+![ExampleOutput](Swiped_input_Genesis_20210705151131.png)
