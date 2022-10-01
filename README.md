@@ -4,13 +4,13 @@
 
 ![ExampleOutput](Swiped_20210705151131.png)
 
-To run call the R script *swiped.R* with the name of a text file as an input argument.
+Call the R script *swiped.R* followed by the name of a text file.
 
 ```console
 Rscript swiped.R input_text.txt
 ```
 
-You can also include the second input argument "named" to have the English version of each word appear above its corresponding swiped representation.
+You can add "named" after the file's name to have the English version of each word appear above its corresponding swiped representation.
 
 ```console
 Rscript swiped.R input_text.txt named
